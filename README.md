@@ -1,6 +1,3 @@
-# upgrade-kernel-6.8
-A step-by-step guide to upgrading the Ubuntu kernel to 6.8.0-52-generic (HWE) on Ubuntu 22.04 LTS. Includes installation via standard updates, manual installation, GRUB update, and kernel verification.
-
 # Upgrade to Kernel 6.8.0-52-generic (HWE) in Ubuntu
 
 ## Step-by-Step Guide
