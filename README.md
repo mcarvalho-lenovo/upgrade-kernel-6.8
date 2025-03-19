@@ -11,7 +11,7 @@ uname -r
 ### 2. Install the Kernel via Standard System Update (For Ubuntu 22.04 Users)
 
 ```bash
-sudo apt update && sudo apt upgrade -y
+sudo apt update && sudo apt full-upgrade -y
 ```
 
 ### 3. (Optional) Manually Install the Target Kernel Version
